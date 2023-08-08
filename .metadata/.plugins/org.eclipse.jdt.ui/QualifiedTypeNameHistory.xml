@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="di_p.Carmera"/>
     <fullyQualifiedTypeName name="di_p.HandPhone"/>
     <fullyQualifiedTypeName name="Taluga.Unit"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="Taluga.Bycycle"/>
     <fullyQualifiedTypeName name="org.springframework.scheduling.config.ScheduledTasksBeanDefinitionParser"/>
+    <fullyQualifiedTypeName name="bycycle.MTBBycycle"/>
+    <fullyQualifiedTypeName name="bycycle.PokaBycycle"/>
+    <fullyQualifiedTypeName name="bycycle.ThreeBycycle"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="bycycle.BycycleCategory"/>
+    <fullyQualifiedTypeName name="bycycle.baarr"/>
+    <fullyQualifiedTypeName name="bycycle.barr"/>
+    <fullyQualifiedTypeName name="bycycle.Handle"/>
+    <fullyQualifiedTypeName name="bycycle.Baguni"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="di_p.Carmera"/>
+    <fullyQualifiedTypeName name="teacherBycle.main.BiCycle_main"/>
 </qualifiedTypeNameHistroy>

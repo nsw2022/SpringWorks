@@ -16,7 +16,7 @@ public class BiCycle_main {
 
 		
 		for (String str : "bc1,bc2,bc3".split(",")) {
-			BiCycle_main bc = context.getBean(str,BiCycle.class);
+			teacherBycle.main.BiCycle bc = context.getBean(str,BiCycle.class);
 			System.out.println(bc);
 		}
 		
