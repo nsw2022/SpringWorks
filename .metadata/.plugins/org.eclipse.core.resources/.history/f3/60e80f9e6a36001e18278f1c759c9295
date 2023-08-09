@@ -1,0 +1,43 @@
+package di_p;
+
+
+
+public class StudentTest {
+	String name;
+	
+	int[] subJectList;
+
+	
+	
+	
+	public StudentTest(String name, int[] subJectList) {
+		super();
+		this.name = name;
+		this.subJectList = subJectList;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public int[] getSubJectList() {
+		return subJectList;
+	}
+
+	public void setSubJectList(int[] subJectList) {
+		this.subJectList = subJectList;
+	}
+	
+	
+	
+	
+
+
+
+	
+}
+

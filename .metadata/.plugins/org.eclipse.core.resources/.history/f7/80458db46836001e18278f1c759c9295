@@ -1,0 +1,14 @@
+package di_p;
+
+import java.util.List;
+import java.util.Map;
+
+public class StudentTest {
+	Map stuInfo;
+	int subjectList;
+	
+	
+
+	
+}
+
