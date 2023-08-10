@@ -89,13 +89,19 @@ public class StudentTest implements Comparable<StudentTest>{
 	public void setRank(int rank) {
 		this.rank = rank;
 	}
+	/*
+	@Override
+	public int compareTo(StudentTest o) {
+		
+		return Integer.compare(rank, o.rank)*-1;
+	}
+	*/
 
 	@Override
 	public int compareTo(StudentTest o) {
 		
 		return Integer.compare(rank, o.rank)*-1;
 	}
-	
 	
 	
 	

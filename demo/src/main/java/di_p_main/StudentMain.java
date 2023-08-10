@@ -16,11 +16,11 @@ public class StudentMain {
 				new ClassPathXmlApplicationContext("di_xml/StudentTest.xml");
 
 		for (String str : "stu1,stu2,stu3,stu4,stu5".split(",")) {
-			//StudentTest students = (StudentTest) context.getBean(str);
-			//System.out.println(students);
+			StudentTest students = (StudentTest) context.getBean(str);
+			System.out.println(students);
 		}
 		
-		
+		System.out.println("==================================");
 		TreeSet<StudentTest> ts = new TreeSet<>();
 
 		for (String str : "stu1,stu2,stu3,stu4,stu5".split(",")) {
