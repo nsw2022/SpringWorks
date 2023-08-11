@@ -13,7 +13,7 @@ public class AutoCarMain {
 		System.out.println("car2 : " + context.getBean("car2"));
 		System.out.println("car3 : " + context.getBean("car3"));
 		System.out.println("car4 : " + context.getBean("car4"));
-		
+		context.close();
 	}
 	
 }

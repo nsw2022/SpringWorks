@@ -35,6 +35,8 @@ public class BycycleMain {
 		xb2.setBa(2);
 		xb2.setHandel("핸들");
 		xb2.go();
+		
+		context.close();
 
 	}
 

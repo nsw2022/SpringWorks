@@ -15,6 +15,6 @@ public class AutuwisePhoneMain {
 		
 		/* System.out.println("ph2 : " + context.getBean("ph2")); */
 		
-		
+		context.close();
 	}
 }
